@@ -1,9 +1,0 @@
-Version change log
-- Added nicknames to assigned/unassigned lists.
-- Added message telling user schedule has uploaded.
-- Added progress bar.
-- Add some code to retry mysql statement a number of times before giving up and giving an error message.
-- Cleaned up comments in source
-
-*** Prototyping ***
-- Prototyped a multiple schedule preview page.
